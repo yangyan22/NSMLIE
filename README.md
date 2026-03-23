@@ -1,3 +1,3 @@
 # NSMLIE
 
-The codes and data will be released.
+The codes, data and the checkpoints will be released.
